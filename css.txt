@@ -1,0 +1,8 @@
+library_management_system/
+│
+├── main.py
+├── book_manager.py
+├── file_manager.py
+├── loan_manager.py
+├── utils.py
+└── README.md
